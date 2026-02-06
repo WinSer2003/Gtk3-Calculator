@@ -1,4 +1,4 @@
-# Gtk3-Calculator
+# Gtk3-SI-Calc
 
 
 A lightweight calculator app designed for **Hyprland / Wayland** setups using **GTK3** and **GtkLayerShell**.  
